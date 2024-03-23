@@ -27,7 +27,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-```sh
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -42,7 +42,7 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-```
+
 
 
 <!-- ABOUT THE PROJECT -->
